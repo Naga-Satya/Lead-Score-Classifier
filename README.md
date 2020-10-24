@@ -1,7 +1,7 @@
 # Lead-Score-Classifier
 
 ### Aim of building the Model:
-#### To classify a customer of the data with 35 different different attributes
+To classify a customer of the data with 35  different attributes
 
 ## Analysis performed:
 - Imputed missing values in continuous features by mean/median detection using boxplot analysis
@@ -23,4 +23,4 @@
 - Recursive Feature Elimination
  
 #### Performace Metric focussed on:
-Sensitivity of the model.
+Sensitivity and Recall of the model.
